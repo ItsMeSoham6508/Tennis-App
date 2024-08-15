@@ -1,11 +1,3 @@
-"""
-Soham Mutalik Desai
-Commander Schenk
-3rd Period IST
-Master project database class
-Started: 3/25/24
-"""
-
 # Importing connector
 import mysql.connector
 from tkinter import messagebox
