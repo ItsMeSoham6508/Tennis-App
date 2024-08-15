@@ -19,10 +19,10 @@ class MasterDb:
 
         # Storing connection in mydb
         self.mydb = mysql.connector.connect(
-            host="localhost",
-            user="root",
-            password="Omsai01*",
-            database="tennisdb"
+            host="",
+            user="",
+            password="",
+            database=""
         )
 
         # Create the cursor
