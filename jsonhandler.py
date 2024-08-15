@@ -1,11 +1,3 @@
-"""
-Soham Mutalik Desai
-Commander Schenk
-3rd period IST
-Master Project JsonHandler class
-Started: 4/25/24
-"""
-
 # Imports
 import json
 from typing import Any
