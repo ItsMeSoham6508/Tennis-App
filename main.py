@@ -1,5 +1,5 @@
 # Import GUI class 
-from masterGui import GUI
+from AppGUI import GUI
 
 # Creating main where GUI object is instantiated 
 def main() -> None:
