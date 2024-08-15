@@ -1,11 +1,3 @@
-"""
-Soham Mutalik Desai
-Commander Schenk
-3rd period IST
-Master Project Exception Classes
-Started: 5/1/24
-"""
-
 class EmptyFields(Exception):
 
     # Exception class to catch empty fields errors
