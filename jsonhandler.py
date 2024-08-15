@@ -1,6 +1,7 @@
 # Imports
 import json
 from typing import Any
+from path import Path
 
 class JsonHandler:
 
@@ -33,7 +34,7 @@ class JsonHandler:
     
     # Keep the file path in memory
     def __init__(self) -> None:
-        self.json_settings = r"C:\Users\OMSAI\OneDrive\Desktop\ORGANIZER\IST\master project 2024\master_settings.json"
+        self.json_settings = Path.cwd() / "settings.json"
 
     # Method to get the lists of themes and current settings from file
     def get_settings(self) -> list:
