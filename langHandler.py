@@ -1,11 +1,3 @@
-"""
-Soham Mutalik Desai
-Commander Schenk
-3rd period IST
-Master Project LangHandler class
-Started: 4/29/24
-"""
-
 # Imports
 from langdetect import detect
 from langcodes import standardize_tag, find as find_tag
