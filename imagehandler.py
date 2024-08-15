@@ -52,7 +52,7 @@ class ImageHandler:
         self.court_img = self.full_convert(file=self.court_path, size=ImgSize.COURT)
 
         # Blank white dummy image, used when user does npt specifiy a file for a record and on load
-        self.blank_img_file = self.dir_path / "whiteness.png"
+        self.blank_img_file = self.dir_path / "blank_image.png"
         self.blank_bg_image = self.full_convert(file=self.blank_img_file, size=ImgSize.REGULAR)
 
         # Get the binary of that to which is stored in db in the case that the user does 
