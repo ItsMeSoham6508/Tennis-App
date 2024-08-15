@@ -1,11 +1,3 @@
-"""
-Soham Mutalik Desai
-Commander Schenk
-3rd period IST
-Master Project GUI class
-Started: 3/25/24
-"""
-
 # Tkinter imports
 import tkinter as tk
 from tkinter import ttk
