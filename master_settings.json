@@ -1,0 +1,442 @@
+{
+    "User Theme": {
+        "User": {
+            "1": [
+                "red",
+                "blue"
+            ],
+            "2": [
+                "green",
+                "blue"
+            ],
+            "3": [
+                "red",
+                "orange"
+            ],
+            "4": [
+                "orange",
+                "blue"
+            ]
+        },
+        "Lang": {
+            "Language": "en"
+        },
+        "Bg": {
+            "Background": "Grass"
+        }
+    },
+    "Default Graph Themes": {
+        "Monokai": {
+            "1": [
+                "#F92672",
+                "#66D9EF"
+            ],
+            "2": [
+                "#A6E22E",
+                "#66D9EF"
+            ],
+            "3": [
+                "#F92672",
+                "#FD971F"
+            ],
+            "4": [
+                "#FD971F",
+                "#66D9EF"
+            ]
+        },
+        "Dracula": {
+            "1": [
+                "#FF6E6E",
+                "#50FA7B"
+            ],
+            "2": [
+                "#BD93F9",
+                "#50FA7B"
+            ],
+            "3": [
+                "#FF6E6E",
+                "#FFB86C"
+            ],
+            "4": [
+                "#FFB86C",
+                "#50FA7B"
+            ]
+        },
+        "One Dark Pro": {
+            "1": [
+                "#FF6E6E",
+                "#82AAFF"
+            ],
+            "2": [
+                "#50FA7B",
+                "#82AAFF"
+            ],
+            "3": [
+                "#FF6E6E",
+                "#FFB86C"
+            ],
+            "4": [
+                "#FFB86C",
+                "#82AAFF"
+            ]
+        },
+        "Material": {
+            "1": [
+                "#EF5350",
+                "#42A5F5"
+            ],
+            "2": [
+                "#66BB6A",
+                "#42A5F5"
+            ],
+            "3": [
+                "#EF5350",
+                "#FFA726"
+            ],
+            "4": [
+                "#FFA726",
+                "#42A5F5"
+            ]
+        },
+        "Night Owl": {
+            "1": [
+                "#FF6E6E",
+                "#82AAFF"
+            ],
+            "2": [
+                "#C792EA",
+                "#82AAFF"
+            ],
+            "3": [
+                "#FF6E6E",
+                "#FFD580"
+            ],
+            "4": [
+                "#FFD580",
+                "#82AAFF"
+            ]
+        },
+        "Solarized Dark": {
+            "1": [
+                "#D33682",
+                "#268BD2"
+            ],
+            "2": [
+                "#859900",
+                "#268BD2"
+            ],
+            "3": [
+                "#D33682",
+                "#B58900"
+            ],
+            "4": [
+                "#B58900",
+                "#268BD2"
+            ]
+        },
+        "Regular": {
+            "1": [
+                "red",
+                "blue"
+            ],
+            "2": [
+                "green",
+                "blue"
+            ],
+            "3": [
+                "red",
+                "orange"
+            ],
+            "4": [
+                "orange",
+                "blue"
+            ]
+        }
+    },
+    "Custom Graph Themes": {
+        "Custom Theme 1": {
+            "1": [
+                "#FF5733",
+                "#33FF57"
+            ],
+            "2": [
+                "#33FFEB",
+                "#33FF57"
+            ],
+            "3": [
+                "#FF5733",
+                "#FFFF33"
+            ],
+            "4": [
+                "#FFFF33",
+                "#33FF57"
+            ]
+        },
+        "Custom Theme 2": {
+            "1": [
+                "#FF0000",
+                "#0000FF"
+            ],
+            "2": [
+                "#00FF00",
+                "#0000FF"
+            ],
+            "3": [
+                "#FF0000",
+                "#FFA500"
+            ],
+            "4": [
+                "#FFA500",
+                "#0000FF"
+            ]
+        },
+        "Custom Theme 3": {
+            "1": [
+                "#FF1493",
+                "red"
+            ],
+            "2": [
+                "#9400D3",
+                "#00FFFF"
+            ],
+            "3": [
+                "#FF1493",
+                "#FFD700"
+            ],
+            "4": [
+                "#FFD700",
+                "#00FFFF"
+            ]
+        },
+        "Custom Theme 4": {
+            "1": [
+                "#8A2BE2",
+                "#7FFF00"
+            ],
+            "2": [
+                "#6495ED",
+                "#7FFF00"
+            ],
+            "3": [
+                "#8A2BE2",
+                "#FFA500"
+            ],
+            "4": [
+                "#FFA500",
+                "#7FFF00"
+            ]
+        },
+        "Rainbow Burst": {
+            "1": [
+                "#FF0000",
+                "blue"
+            ],
+            "2": [
+                "#FFFF00",
+                "#00FF00"
+            ],
+            "3": [
+                "#0000FF",
+                "black"
+            ],
+            "4": [
+                "#9400D3",
+                "#FF0000"
+            ]
+        },
+        "Pastel Dream": {
+            "1": [
+                "#FFC0CB",
+                "#87CEFA"
+            ],
+            "2": [
+                "#FFD700",
+                "red"
+            ],
+            "3": [
+                "#00FF7F",
+                "#9370DB"
+            ],
+            "4": [
+                "#FF6347",
+                "#7B68EE"
+            ]
+        },
+        "Neon Glow": {
+            "1": [
+                "#FF1493",
+                "#00FFFF"
+            ],
+            "2": [
+                "#FF4500",
+                "black"
+            ],
+            "3": [
+                "#FF00FF",
+                "#FFFF00"
+            ],
+            "4": [
+                "#00FF00",
+                "#FF00FF"
+            ]
+        },
+        "Commanders Theme": {
+            "1": [
+                "darkgreen",
+                "lightblue"
+            ],
+            "2": [
+                "purple",
+                "yellow"
+            ],
+            "3": [
+                "teal",
+                "brown"
+            ],
+            "4": [
+                "lavender",
+                "gray"
+            ]
+        },
+        "ROJO": {
+            "1": [
+                "green",
+                "red"
+            ],
+            "2": [
+                "blue",
+                "red"
+            ],
+            "3": [
+                "pink",
+                "blue"
+            ],
+            "4": [
+                "black",
+                "red"
+            ]
+        },
+        "Khangaroo": {
+            "1": [
+                "lime",
+                "pink"
+            ],
+            "2": [
+                "teal",
+                "brown"
+            ],
+            "3": [
+                "green",
+                "red"
+            ],
+            "4": [
+                "darkgreen",
+                "lightblue"
+            ]
+        },
+        "Theme for the Commander": {
+            "1": [
+                "darkblue",
+                "lightyellow"
+            ],
+            "2": [
+                "darkblue",
+                "lightyellow"
+            ],
+            "3": [
+                "darkblue",
+                "lightyellow"
+            ],
+            "4": [
+                "blue",
+                "orange"
+            ]
+        },
+        "My boi commando": {
+            "1": [
+                "lavender",
+                "gray"
+            ],
+            "2": [
+                "cyan",
+                "magenta"
+            ],
+            "3": [
+                "green",
+                "red"
+            ],
+            "4": [
+                "purple",
+                "yellow"
+            ]
+        },
+        "bro johhny": {
+            "1": [
+                "green",
+                "red"
+            ],
+            "2": [
+                "lime",
+                "pink"
+            ],
+            "3": [
+                "teal",
+                "brown"
+            ],
+            "4": [
+                "olive",
+                "skyblue"
+            ]
+        },
+        "Name of theme": {
+            "1": [
+                "purple",
+                "yellow"
+            ],
+            "2": [
+                "teal",
+                "brown"
+            ],
+            "3": [
+                "purple",
+                "yellow"
+            ],
+            "4": [
+                "darkblue",
+                "yellow"
+            ]
+        },
+        "Idk": {
+            "1": [
+                "cyan",
+                "magenta"
+            ],
+            "2": [
+                "darkgreen",
+                "lightblue"
+            ],
+            "3": [
+                "darkblue",
+                "lightyellow"
+            ],
+            "4": [
+                "olive",
+                "skyblue"
+            ]
+        }
+    },
+    "Supported languages": {
+        "English": "en",
+        "Spanish": "es",
+        "French": "fr",
+        "German": "de",
+        "Chinese": "zh-CN",
+        "Korean": "ko",
+        "Arabic": "ar",
+        "Marathi": "mr"
+    },
+    "Bg_imgs": {
+        "Clay": "Clay",
+        "Grass": "Grass"
+    }
+}
