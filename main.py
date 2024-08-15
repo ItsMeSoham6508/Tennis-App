@@ -1,12 +1,4 @@
-"""
-Soham Mutalik Desai
-Commander Schenk
-3rd period IST
-Master Project Main
-Started: 3/25/24 
-"""
-
-# Import my GUI class 
+# Import GUI class 
 from masterGui import GUI
 
 # Creating main where GUI object is instantiated 
