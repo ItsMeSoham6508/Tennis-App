@@ -1,11 +1,3 @@
-"""
-Soham Mutalik Desai
-Commander Schenk
-3rd period IST
-Master Project Web Scraper class
-Started: 4/25/24
-"""
-
 # Imports
 from enum import Enum, auto
 
