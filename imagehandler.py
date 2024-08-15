@@ -1,11 +1,3 @@
-"""
-Soham Mutalik Desai
-Commander Schenk
-3rd period IST
-Master Project ImageHandler class
-Started: 4/25/24
-"""
-
 # Imports
 from io import BytesIO
 from PIL import Image, ImageTk
